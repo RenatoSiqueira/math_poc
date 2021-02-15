@@ -1,3 +1,3 @@
-# Preciso De.
+# Projeto Educacional.
 
-Stack: NEXTJS + TailwindCSS + Formik + Google Spreadsheet + Moment + SWR + Yup
+Stack: NEXTJS + TailwindCSS + Google Spreadsheet + Moment + SWR
